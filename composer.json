@@ -1,0 +1,21 @@
+{
+    "name": "darknesser/coin-lib",
+    "description": "Coin library in PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danton",
+            "email": "1101968199@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Darknesser\\CoinLib\\": "src"
+        }
+    }
+}
