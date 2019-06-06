@@ -1,2 +1,2 @@
 # coin-lib
-Coin library in PHP
+Coin library in PHP test
